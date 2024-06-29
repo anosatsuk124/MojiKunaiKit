@@ -1,4 +1,4 @@
-# `MojiKunaiKit`
+# MojiKunaiKit
 
 `MojiKunaiKit` is a versatile, text-based Swiss Army knife for command-line enthusiasts and developers.
 
@@ -22,7 +22,7 @@
 
 ## About the Name
 
-The name "`MojiKunaiKit`" combines elements from Japanese and English to reflect the tool's nature and functionality:
+The name `MojiKunaiKit` combines elements from Japanese and English to reflect the tool's nature and functionality:
 
 - "Moji" (文字): Japanese word meaning "character" or "text", representing the text-based nature of our tool.
 
