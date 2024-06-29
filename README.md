@@ -2,6 +2,24 @@
 
 `MojiKunaiKit` is a versatile, text-based Swiss Army knife for command-line enthusiasts and developers.
 
+## Feature Goals
+
+### Text-based virtual file system
+
+- Non-recursive modification (with generating patches)
+
+- (Optional) Implementing FUSE
+
+### Generic script runner
+
+- Registering scripts into the CLI command
+
+  - (Optional) Implementing WASI runner
+
+### Extensibility
+
+- Plugins system with WASM portability.
+
 ## About the Name
 
 The name "`MojiKunaiKit`" combines elements from Japanese and English to reflect the tool's nature and functionality:
